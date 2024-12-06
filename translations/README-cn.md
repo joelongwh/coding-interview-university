@@ -9,6 +9,13 @@
 >
 > **祝你好运!**
 
+<div align="center">
+	<hr />
+    <p>
+        <a href="https://github.com/sponsors/jwasham"><strong>成为赞助商</strong> 并支持编程大学！</a>
+    </p>
+    <hr />
+</div>
 
 ## 这是？
 
